@@ -1,4 +1,4 @@
-I be building shit
+I be building.
 
 <!---
 thejasha/thejasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
