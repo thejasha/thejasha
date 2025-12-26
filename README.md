@@ -1,4 +1,4 @@
-I usually hold my code on my server - Upload to GitHub as a backup or for demos.
+I usually hold my code on my gitea server - Upload to GitHub as a backup or for demos.
 
 <!---
 thejasha/thejasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
